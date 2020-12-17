@@ -7,7 +7,7 @@ main.html:
 .PHONY: dist
 dist: main.html
 	mkdir -p ./dist
-	cp ./main.html ./dist/index.html
+	cp ./main.html ./dist/index.html && cp ./image ./dist
 
 .PHONY: clean
 clean:
