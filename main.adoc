@@ -1,0 +1,32 @@
+
+= La tête de Sanglier !
+
+Bienvenue sur le liste de la tête de sanglier
+
+
+
+== Carte de la Taverne
+
+==== Boisson
+* Bièraubeurre
+* Whisky pur feu
+* Soda de Branchiflore
+
+==== Restauration
+** Bouillabaisse
+** Dragées surprises de Bertie Crochue
+
+== Informations diverses
+
+=== les conditions de restauration
+
+* Pas de regroupement de plus de 6 personnes
+* Distance résonnable  entre les personnes
+* Pas de réunion de club non autorisée pour les étudiants
+* Nous ne sommes pas responsables des personnes louches présentes
+
+=== les livraisons possibles
+** Pré-au-Lard
+** Poudlard
+** Allée des Embrumes
+
