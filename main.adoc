@@ -7,6 +7,10 @@ Bienvenue sur le liste de la tête de sanglier
 
 == Carte de la Taverne
 
+=== Votre chef
+
+Rubeus Hagrid
+
 ==== Boisson
 * Bièraubeurre
 * Whisky pur feu
